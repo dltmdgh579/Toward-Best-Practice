@@ -78,8 +78,11 @@ CUD 작성 시 트랜잭션 관리
 ## 유익한 자료
 
 [자바/서버]
+
 https://www.youtube.com/@madvirus
 
 [객체지향]
+
 https://youtu.be/dJ5C4qRqAgA?si=iI5CC5ldZXcXvtoC
+
 https://youtu.be/26S4VFUWlJM?si=SpeFCpTf8zJVfvyj
