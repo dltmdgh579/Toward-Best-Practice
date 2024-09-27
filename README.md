@@ -72,3 +72,14 @@ CUD 작성 시 트랜잭션 관리
 
 1. Exception은 구현부에서 try catch로 처리한다. (파일, 로그, 알람을 남긴다)
 2. 서비스의 고유한 에러 코드를 작성하여 에러를 쉽게 파악하도록 한다.
+
+---
+
+## 유익한 자료
+
+[자바/서버]
+https://www.youtube.com/@madvirus
+
+[객체지향]
+https://youtu.be/dJ5C4qRqAgA?si=iI5CC5ldZXcXvtoC
+https://youtu.be/26S4VFUWlJM?si=SpeFCpTf8zJVfvyj
